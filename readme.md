@@ -11,7 +11,7 @@
 [ CReg .NET API ] (issues JWT)
       ↓ returns JWT
 [ Module Angular App ]
-      ↓ postMessage(token, userId, orgId)
+      ↓ postMessage(token)
 [ CReg Angular App ]
       ↓
 [ CReg .NET API ] (validates JWT for API calls)
